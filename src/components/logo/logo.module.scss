@@ -1,0 +1,18 @@
+.container {
+    display: flex;
+    height: inherit;
+    line-height: 100%;
+    align-items: center;
+    text-decoration: none;
+}
+
+.image {
+    height: inherit
+}
+
+.text {
+    font-weight: 600;
+    text-transform: uppercase;
+    line-height: inherit;
+    color: black;
+}
